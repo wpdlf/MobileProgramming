@@ -8,5 +8,5 @@
 
 
 ## In-Class Homework Week2 Day2 #1
--gitnub committing 하기
+-committing 하기
 ![1](https://user-images.githubusercontent.com/29966841/110583687-68a88080-81b1-11eb-91c0-62547bcd41e1.jpg)
