@@ -1,5 +1,5 @@
 # MobileProgramming
-#스마트정보통신공학과 201721197 정지원
+# 스마트정보통신공학과 201721197 정지원
 
 
 ## In-Class Homework Week2 Day1 #1
